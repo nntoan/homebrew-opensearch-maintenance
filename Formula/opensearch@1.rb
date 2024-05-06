@@ -1,7 +1,7 @@
 class OpensearchAT1 < Formula
   desc "Open source distributed and RESTful search engine"
   homepage "https://github.com/opensearch-project/OpenSearch"
-  url "https://github.com/opensearch-project/OpenSearch/archive/1.3.8.tar.gz"
+  url "https://github.com/opensearch-project/OpenSearch/archive/refs/tags/1.3.8.tar.gz"
   sha256 "bb7b131780fea4ceb456ecbd3a534598d3e584886c6880f687a7eb741560e482"
   license "Apache-2.0"
 
@@ -235,4 +235,3 @@ index 118b43ebdf0..66aebbbd1ce 100644
  
  netty             = 4.1.86.Final
  joda              = 2.10.12
-
